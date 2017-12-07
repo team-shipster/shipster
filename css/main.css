@@ -6,6 +6,23 @@ body {
     background: none 0 0 no-repeat rgba(0, 180, 140, 1);
 }
 
+.phone {
+    display: inline-block;
+    width: 35%;
+    float: right;
+}
+
+.phone-text {
+    display: inline-block;
+    width: 60%;
+    float: left;
+}
+
+/* device */
+.phone .note8 .screen {
+    background-color: #e9ebee;
+    position: relative;
+}
 
 .shipster-title,
 .landing .shipster-title,
