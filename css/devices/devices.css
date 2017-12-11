@@ -2448,11 +2448,11 @@
 }
 
 .marvel-device.note8 {
-    width: 400px;
-    height: 822px;
+    width: 25em;
+    height: 51.375em;
     background: black;
-    border-radius: 34px;
-    padding: 45px 10px
+    border-radius: 2.125em;
+    padding: 2.8125em .625em;
 }
 
 .marvel-device.note8 .overflow {
@@ -2461,244 +2461,244 @@
     position: absolute;
     top: 0;
     left: 0;
-    border-radius: 34px;
-    overflow: hidden
+    border-radius: 2.125em;
+    overflow: hidden;
 }
 
 .marvel-device.note8 .speaker {
-    height: 8px;
-    width: 56px;
+    height: .5em;
+    width: 3.5em;
     left: 50%;
     position: absolute;
-    top: 25px;
-    margin-left: -28px;
+    top: 1.5625em;
+    margin-left: -1.75em;
     background: #171818;
     z-index: 1;
-    border-radius: 8px
+    border-radius: .5em;
 }
 
 .marvel-device.note8 .camera {
-    height: 18px;
-    width: 18px;
-    left: 86px;
+    height: 1.125em;
+    width: 1.125em;
+    left: 5.375em;
     position: absolute;
-    top: 18px;
+    top: 1.125em;
     background: #212b36;
     z-index: 1;
-    border-radius: 100%
+    border-radius: 100%;
 }
 
 .marvel-device.note8 .camera:before {
     content: '';
-    height: 8px;
-    width: 8px;
-    left: -22px;
+    height: .5em;
+    width: .5em;
+    left: -1.375em;
     position: absolute;
-    top: 5px;
+    top: .3125em;
     background: #212b36;
     z-index: 1;
-    border-radius: 100%
+    border-radius: 100%;
 }
 
 .marvel-device.note8 .sensors {
-    height: 10px;
-    width: 10px;
-    left: 120px;
+    height: .625em;
+    width: .625em;
+    left: 7.5em;
     position: absolute;
-    top: 22px;
+    top: 1.375em;
     background: #1d233b;
     z-index: 1;
-    border-radius: 100%
+    border-radius: 100%;
 }
 
 .marvel-device.note8 .sensors:before {
     content: '';
-    height: 10px;
-    width: 10px;
-    left: 18px;
+    height: .625em;
+    width: .625em;
+    left: 1.125em;
     position: absolute;
     top: 0;
     background: #1d233b;
     z-index: 1;
-    border-radius: 100%
+    border-radius: 100%;
 }
 
 .marvel-device.note8 .more-sensors {
-    height: 16px;
-    width: 16px;
-    left: 285px;
+    height: 1em;
+    width: 1em;
+    left: 17.8125em;
     position: absolute;
-    top: 18px;
+    top: 1.125em;
     background: #33244a;
-    -webkit-box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1);
-    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1);
+    -webkit-box-shadow: 0 0 0 .125em rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 0 .125em rgba(255, 255, 255, 0.1);
     z-index: 1;
-    border-radius: 100%
+    border-radius: 100%;
 }
 
 .marvel-device.note8 .more-sensors:before {
     content: '';
-    height: 11px;
-    width: 11px;
-    left: 40px;
+    height: .6875em;
+    width: .6875em;
+    left: 2.5em;
     position: absolute;
-    top: 4px;
+    top: .25em;
     background: #214a61;
     z-index: 1;
     border-radius: 100%
 }
 
 .marvel-device.note8 .sleep {
-    width: 2px;
-    height: 56px;
+    width: 0.125em;
+    height: 3.5em;
     background: black;
     position: absolute;
-    top: 288px;
-    right: -2px
+    top: 18em;
+    right: -0.125em;
 }
 
 .marvel-device.note8 .volume {
-    width: 2px;
-    height: 120px;
+    width: 0.125em;
+    height: 7.5em;
     background: black;
     position: absolute;
-    top: 168px;
-    left: -2px
+    top: 10.5em;
+    left: -0.125em;
 }
 
 .marvel-device.note8 .volume:before {
     content: '';
-    top: 168px;
-    width: 2px;
+    top: 10.5em;
+    width: 0.125em;
     position: absolute;
     left: 0;
     background: black;
-    height: 56px
+    height: 3.5em;
 }
 
 .marvel-device.note8 .inner {
     width: 100%;
-    height: calc(100% - 8px);
+    height: calc(100% - .5em);
     position: absolute;
-    top: 2px;
+    top: 0.125em;
     content: '';
-    left: 0px;
-    border-radius: 34px;
-    border-top: 2px solid #9fa0a2;
-    border-bottom: 2px solid #9fa0a2;
+    left: 0;
+    border-radius: 2.125em;
+    border-top: 0.125em solid #9fa0a2;
+    border-bottom: 0.125em solid #9fa0a2;
     background: black;
     z-index: 1;
-    -webkit-box-shadow: inset 0 0 6px 0 rgba(255, 255, 255, 0.5);
-    box-shadow: inset 0 0 6px 0 rgba(255, 255, 255, 0.5)
+    -webkit-box-shadow: inset 0 0 .375em 0 rgba(255, 255, 255, 0.5);
+    box-shadow: inset 0 0 .375em 0 rgba(255, 255, 255, 0.5)
 }
 
 .marvel-device.note8 .shadow {
-    -webkit-box-shadow: inset 0 0 60px 0 white, inset 0 0 30px 0 rgba(255, 255, 255, 0.5), 0 0 20px 0 white, 0 0 20px 0 rgba(255, 255, 255, 0.5);
-    box-shadow: inset 0 0 60px 0 white, inset 0 0 30px 0 rgba(255, 255, 255, 0.5), 0 0 20px 0 white, 0 0 20px 0 rgba(255, 255, 255, 0.5);
+    -webkit-box-shadow: inset 0 0 3.75em 0 white, inset 0 0 1.875em 0 rgba(255, 255, 255, 0.5), 0 0 1.25em 0 white, 0 0 1.25em 0 rgba(255, 255, 255, 0.5);
+    box-shadow: inset 0 0 3.75em 0 white, inset 0 0 1.875em 0 rgba(255, 255, 255, 0.5), 0 0 1.25em 0 white, 0 0 1.25em 0 rgba(255, 255, 255, 0.5);
     height: 101%;
     position: absolute;
     top: -0.5%;
     content: '';
-    width: calc(100% - 20px);
-    left: 10px;
-    border-radius: 38px;
+    width: calc(100% - 1.25em);
+    left: .625em;
+    border-radius: 2.375em;
     z-index: 5;
-    pointer-events: none
+    pointer-events: none;
 }
 
 .marvel-device.note8 .screen {
-    border-radius: 14px;
+    border-radius: .875em;
     -webkit-box-shadow: none;
-    box-shadow: none
+    box-shadow: none;
 }
 
 .marvel-device.note8.landscape {
-    height: 400px;
-    width: 822px;
-    padding: 10px 45px
+    height: 25em;
+    width: 51.375em;
+    padding: .625em 2.8125em;
 }
 
 .marvel-device.note8.landscape .speaker {
-    height: 56px;
-    width: 8px;
+    height: 3.5em;
+    width: .5em;
     top: 50%;
-    margin-top: -28px;
+    margin-top: -1.75em;
     margin-left: 0;
-    right: 25px;
-    left: auto
+    right: 1.5625em;
+    left: auto;
 }
 
 .marvel-device.note8.landscape .camera {
-    top: 86px;
-    right: 18px;
-    left: auto
+    top: 5.375em;
+    right: 1.125em;
+    left: auto;
 }
 
 .marvel-device.note8.landscape .camera:before {
-    top: -22px;
-    left: 5px
+    top: -1.375em;
+    left: .3125em;
 }
 
 .marvel-device.note8.landscape .sensors {
-    top: 120px;
-    right: 22px;
-    left: auto
+    top: 7.5em;
+    right: 1.375em;
+    left: auto;
 }
 
 .marvel-device.note8.landscape .sensors:before {
-    top: 18px;
-    left: 0
+    top: 1.125em;
+    left: 0;
 }
 
 .marvel-device.note8.landscape .more-sensors {
-    top: 285px;
-    right: 18px;
-    left: auto
+    top: 17.8125em;
+    right: 1.125em;
+    left: auto;
 }
 
 .marvel-device.note8.landscape .more-sensors:before {
-    top: 40px;
-    left: 4px
+    top: 2.5em;
+    left: .25em;
 }
 
 .marvel-device.note8.landscape .sleep {
-    bottom: -2px;
+    bottom: -0.125em;
     top: auto;
-    right: 288px;
-    width: 56px;
-    height: 2px
+    right: 18em;
+    width: 3.5em;
+    height: 0.125em;
 }
 
 .marvel-device.note8.landscape .volume {
-    width: 120px;
-    height: 2px;
-    top: -2px;
-    right: 168px;
-    left: auto
+    width: 7.5em;
+    height: 0.125em;
+    top: -0.125em;
+    right: 10.5em;
+    left: auto;
 }
 
 .marvel-device.note8.landscape .volume:before {
-    right: 168px;
+    right: 10.5em;
     left: auto;
     top: 0;
-    width: 56px;
-    height: 2px
+    width: 3.5em;
+    height: 0.125em;
 }
 
 .marvel-device.note8.landscape .inner {
     height: 100%;
-    width: calc(100% - 8px);
-    left: 2px;
+    width: calc(100% - .5em);
+    left: 0.125em;
     top: 0;
     border-top: 0;
     border-bottom: 0;
-    border-left: 2px solid #9fa0a2;
-    border-right: 2px solid #9fa0a2
+    border-left: 0.125em solid #9fa0a2;
+    border-right: 0.125em solid #9fa0a2;
 }
 
 .marvel-device.note8.landscape .shadow {
     width: 101%;
-    height: calc(100% - 20px);
+    height: calc(100% - 1.25em);
     left: -0.5%;
-    top: 10px
+    top: .625em;
 }
